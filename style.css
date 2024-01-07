@@ -1,0 +1,50 @@
+body{
+    background-color: #e5e7e6;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:#141301;
+    vertical-align: middle;
+    text-align: center;
+}
+
+.converter{
+    color: #b7b5b3;
+}
+.binaryNum{
+    color: #b80c09;
+}
+.inputSection{
+    padding: 5px;
+     font-size: 16px;
+     border-width: 1px;
+     border-color: #CCCCCC;
+     background-color: #FFFFFF;
+     color: #000000;
+     border-style: solid;
+     border-radius: 25px;
+     box-shadow: 0px 0px 12px rgba(66,66,66,.75);
+     text-shadow: 0px 0px 5px rgba(66,66,66,.75);
+}
+.inputSection:focus {
+    outline:none;
+}
+
+.convert2Dec{
+    font-family: arial;
+    color: #b80c09 !important;
+    font-size: 12px;
+    box-shadow: 1px 1px 1px #b7b5b3;
+    padding: 10px 25px;
+    -moz-border-radius: 28px;
+    -webkit-border-radius: 28px;
+    border-radius: 28px;
+    border: 2px solid #b80c09;
+    background: b7b5b3;
+  }
+  .convert2Dec:hover {
+    color: #b7b5b3 !important;
+    background: solid
+}
+
+.decEq{
+    color: #b80c09;
+}
